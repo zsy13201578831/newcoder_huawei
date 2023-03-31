@@ -33,5 +33,14 @@
     <ClCompile Include="number_3_2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HJ3_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ5_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

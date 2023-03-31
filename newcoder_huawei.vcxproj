@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HJ3_1.cpp" />
+    <ClCompile Include="HJ5_1.cpp" />
+    <ClCompile Include="HJ7.cpp" />
     <ClCompile Include="number_1.cpp" />
     <ClCompile Include="number_1_2.cpp" />
     <ClCompile Include="number_2.cpp" />
