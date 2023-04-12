@@ -42,5 +42,29 @@
     <ClCompile Include="HJ7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HJ8_合并表记录.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ9_提取不重复的整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ10_字符个数统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ11_数字颠倒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ12_字符串反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ13_句子逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ14_字符串排序_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ15_求Int型正整数在内存中存储时1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

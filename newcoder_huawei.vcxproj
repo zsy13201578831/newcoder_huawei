@@ -127,9 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HJ10_字符个数统计.cpp" />
+    <ClCompile Include="HJ11_数字颠倒.cpp" />
+    <ClCompile Include="HJ12_字符串反转.cpp" />
+    <ClCompile Include="HJ13_句子逆序.cpp" />
+    <ClCompile Include="HJ14_字符串排序_1.cpp" />
+    <ClCompile Include="HJ15_求Int型正整数在内存中存储时1的个数.cpp" />
     <ClCompile Include="HJ3_1.cpp" />
     <ClCompile Include="HJ5_1.cpp" />
     <ClCompile Include="HJ7.cpp" />
+    <ClCompile Include="HJ8_合并表记录.cpp" />
+    <ClCompile Include="HJ9_提取不重复的整数.cpp" />
     <ClCompile Include="number_1.cpp" />
     <ClCompile Include="number_1_2.cpp" />
     <ClCompile Include="number_2.cpp" />
